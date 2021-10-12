@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/%7Byourbalance%7D/static/js/main.2768d629.chunk.js",
-    "main.js.map": "/%7Byourbalance%7D/static/js/main.2768d629.chunk.js.map",
-    "runtime-main.js": "/%7Byourbalance%7D/static/js/runtime-main.7bfb4f25.js",
-    "runtime-main.js.map": "/%7Byourbalance%7D/static/js/runtime-main.7bfb4f25.js.map",
-    "static/js/2.fa030bde.chunk.js": "/%7Byourbalance%7D/static/js/2.fa030bde.chunk.js",
-    "static/js/2.fa030bde.chunk.js.map": "/%7Byourbalance%7D/static/js/2.fa030bde.chunk.js.map",
-    "index.html": "/%7Byourbalance%7D/index.html",
-    "static/js/2.fa030bde.chunk.js.LICENSE.txt": "/%7Byourbalance%7D/static/js/2.fa030bde.chunk.js.LICENSE.txt",
-    "static/media/bodyTreatmentImg.e04af044.jpg": "/%7Byourbalance%7D/static/media/bodyTreatmentImg.e04af044.jpg",
-    "static/media/eyebrowsImg.e795b0c8.jpg": "/%7Byourbalance%7D/static/media/eyebrowsImg.e795b0c8.jpg",
-    "static/media/eyelashImg.9f49dbe4.jpg": "/%7Byourbalance%7D/static/media/eyelashImg.9f49dbe4.jpg",
-    "static/media/facialTreatmentImg.68c29ccb.jpg": "/%7Byourbalance%7D/static/media/facialTreatmentImg.68c29ccb.jpg",
-    "static/media/logo.95c6491f.jpg": "/%7Byourbalance%7D/static/media/logo.95c6491f.jpg",
-    "static/media/massageImg.111c0455.jpg": "/%7Byourbalance%7D/static/media/massageImg.111c0455.jpg",
-    "static/media/waxImg.c07d0772.jpg": "/%7Byourbalance%7D/static/media/waxImg.c07d0772.jpg",
-    "static/media/ybTeam.313bd8bd.PNG": "/%7Byourbalance%7D/static/media/ybTeam.313bd8bd.PNG"
+    "main.js": "./static/js/main.2768d629.chunk.js",
+    "main.js.map": "./static/js/main.2768d629.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.63db01ff.js",
+    "runtime-main.js.map": "./static/js/runtime-main.63db01ff.js.map",
+    "static/js/2.a1240159.chunk.js": "./static/js/2.a1240159.chunk.js",
+    "static/js/2.a1240159.chunk.js.map": "./static/js/2.a1240159.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.a1240159.chunk.js.LICENSE.txt": "./static/js/2.a1240159.chunk.js.LICENSE.txt",
+    "static/media/bodyTreatmentImg.e04af044.jpg": "./static/media/bodyTreatmentImg.e04af044.jpg",
+    "static/media/eyebrowsImg.e795b0c8.jpg": "./static/media/eyebrowsImg.e795b0c8.jpg",
+    "static/media/eyelashImg.9f49dbe4.jpg": "./static/media/eyelashImg.9f49dbe4.jpg",
+    "static/media/facialTreatmentImg.68c29ccb.jpg": "./static/media/facialTreatmentImg.68c29ccb.jpg",
+    "static/media/logo.95c6491f.jpg": "./static/media/logo.95c6491f.jpg",
+    "static/media/massageImg.111c0455.jpg": "./static/media/massageImg.111c0455.jpg",
+    "static/media/waxImg.c07d0772.jpg": "./static/media/waxImg.c07d0772.jpg",
+    "static/media/ybTeam.313bd8bd.PNG": "./static/media/ybTeam.313bd8bd.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bfb4f25.js",
-    "static/js/2.fa030bde.chunk.js",
+    "static/js/runtime-main.63db01ff.js",
+    "static/js/2.a1240159.chunk.js",
     "static/js/main.2768d629.chunk.js"
   ]
 }
